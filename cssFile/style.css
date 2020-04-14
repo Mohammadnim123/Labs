@@ -1,0 +1,46 @@
+#logo {
+    width: 80px;
+    margin-top: 30px;
+}
+h1 {
+    display :inline;
+    color:red;
+
+  }
+  
+div {
+    display: inline;
+}
+
+ul li{
+    display: inline-block;
+    margin: 10px;
+    
+  }
+
+  header {
+      background-color:black;
+  }
+  a {
+      color:red;
+  }
+  h2 {
+      color :black
+  }
+  article section img {
+      width: 400px;
+      height: 300px;
+  }
+  footer {
+    background:black;
+    padding: 30px;
+    text-align: center;
+    color: red;
+  }
+  main {
+      background-color: rgb(155, 37, 37);
+      text-align: center;
+  }
+p {
+    font-size: 15px;
+}
