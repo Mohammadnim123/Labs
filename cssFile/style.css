@@ -40,6 +40,9 @@ ul li{
   main {
       background-color: rgb(155, 37, 37);
       text-align: center;
+      margin-top: -20px;
+      margin-bottom: -17px;
+
   }
 p {
     font-size: 15px;
